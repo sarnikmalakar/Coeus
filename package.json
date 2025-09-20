@@ -1,0 +1,14 @@
+{
+  "name": "coeus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "keywords": [],
+  "author": "Sarnik Malakar",
+  "email": "sarnikmalakar@gmail.com",
+  "license": "ISC",
+  "description": "This is my attempt to create a Version Control System."
+}
